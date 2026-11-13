@@ -29,6 +29,3 @@ Without this check, anyone who knows your webhook URL can send fake messages to 
 - Meta expects a fast 200 response, so the workflow replies before your logic runs.
 - Test with a real Meta app before you rely on it in production.
 
-## License
-
-MIT
